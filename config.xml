@@ -6,14 +6,14 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Ketjilbergerak</name>
+    <name>Albert App</name>
 
     <description>
-        Hello World sample application with Pushwoosh Phonegap push notifications plugin integrated
+        Aplikasi untuk Blog Albert Sukmono
     </description>
 
-    <author href="http://pushwoosh.com" email="support@pushwoosh.com">
-        Pushwoosh
+    <author href="http://albert.sukmono.web.id" email="info@gb.co.id">
+        Albert Sukmono
     </author>
 
     <!-- Customize your app and platform with the preference element. -->
