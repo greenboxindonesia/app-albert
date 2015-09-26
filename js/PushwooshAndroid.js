@@ -42,7 +42,7 @@ function registerPushwooshAndroid() {
 	);
 
 	//initialize Pushwoosh with projectid: "GOOGLE_PROJECT_ID", appid : "PUSHWOOSH_APP_ID". This will trigger all pending push notifications on start.
-	pushNotification.onDeviceReady({ projectid: "328436444659", appid : "1674699" });
+	pushNotification.onDeviceReady({ projectid: "328436444659", appid : "E2DB9-0CC92" });
 
 	//register for push notifications
 	pushNotification.registerDevice(

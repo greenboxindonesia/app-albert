@@ -30,7 +30,7 @@ function registerPushwooshWP() {
     });
 
     //initialize the plugin
-    pushNotification.onDeviceReady({ appid: "1674699", serviceName: "" });
+    pushNotification.onDeviceReady({ appid: "E2DB9-0CC92", serviceName: "" });
 
     //register for pushes
     pushNotification.registerDevice(
